@@ -1,2 +1,2 @@
 # AMEX
-Card flipping animation
+Card flipping animation, interactive
