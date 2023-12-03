@@ -1,5 +1,5 @@
 # AMERICAN EXPRESS Credit Card flipping animation
-A front-end project showcasing a stylish flip animation of a credit card using HTML and CSS. The card reveals additional details, simulating a real-world card flip effect.
+A front-end project showcasing a stylish flip animation of a credit card using HTML, CSS and Javascript. The card reveals additional details, simulating a real-world card flip effect.
 
 ## Features:
 ### 1. 3D Flip Animation
